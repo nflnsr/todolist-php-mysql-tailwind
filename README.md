@@ -15,3 +15,7 @@ note that i using tailwind cdn for development. if you have done with your code,
 
 
 
+
+Copyright © 2023 Naufal Nasrullah ∙ All Rights Reserved
+any question? contact me https://api.whatsapp.com/send/?phone=6282293105626&text=sumimasen..+&type=phone_number&app_absent=0
+
