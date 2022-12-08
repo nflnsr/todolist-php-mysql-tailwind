@@ -9,7 +9,6 @@ $conn = mysqli_connect($host, $usr, $pwd, $db);
 
 if (isset($_POST['Submit'])) {
   mysqli_query($conn, "UPDATE todolist_apps SET task = '$_POST[task]', priority = '$_POST[priority]', date_created = '$_POST[date_created]' WHERE id = '$_GET[id]'");
-  // Redirect to homepage to display updated user in list
   header("Location: index.php");
 }
 
