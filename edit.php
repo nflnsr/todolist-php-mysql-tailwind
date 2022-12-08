@@ -1,4 +1,3 @@
-<!-- //start php code
 <?php
 
 $host = '';
@@ -18,7 +17,6 @@ $datas = mysqli_query($conn, "SELECT * FROM todolist_apps WHERE id=$_GET[id]");
 $data = mysqli_fetch_array($datas)
 
 ?>
-//end php code  -->
 
 <!DOCTYPE html>
 <html lang="en">
