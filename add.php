@@ -5,10 +5,10 @@ if (isset($_POST['Submit'])) {
   $date_created = $_POST['date_created'];
 
   // include database connection file
-  $host = 'sql311.epizy.com';
-  $usr = 'epiz_33133900';
-  $pwd = 'nauwasyours';
-  $db = 'epiz_33133900_todolist';
+  $host = '';
+  $usr = '';
+  $pwd = '';
+  $db = '';
   
 
   // parameter = hostname, username, password, database
