@@ -49,7 +49,7 @@ $data = mysqli_query($conn, "SELECT * FROM todolist_apps");
                     </tr>
                 </thead>
                 <tbody>
-            <!--   // start php code                  
+            
                 <?php
                     $no = 1;
                     while ($data_tasks = mysqli_fetch_array($data)) {
@@ -64,8 +64,7 @@ $data = mysqli_query($conn, "SELECT * FROM todolist_apps");
                               </td>";
                         echo "</tr>";
                      }
-                ?> 
-                // end php code -->
+                 ?> 
 
                 </tbody>
             </table>
