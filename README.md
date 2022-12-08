@@ -6,9 +6,8 @@ i recommended infinityfree.net for php language like this one (hosting and confi
 after that, you can fill the code that i've set for you with your own database information.
 make sure to set the table name and the field name based from the code that i've made.
 
-database name : 
-table name : 
-field name : 
+table name : todolist_apps
+field name : id, task, priority, date_created
 
 definitely u can change the name according to you, but you should change the name in the code as well.
 
