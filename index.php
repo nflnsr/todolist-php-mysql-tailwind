@@ -1,15 +1,20 @@
+<!-- //start php code
+
 <?php
 
-$host = 'sql311.epizy.com';
-$usr = 'epiz_33133900';
-$pwd = 'nauwasyours';
-$db = 'epiz_33133900_todolist';
+$host = '';
+$usr = '';
+$pwd = '';
+$db = '';
 
 $conn = mysqli_connect($host, $usr, $pwd, $db);
 
 $data = mysqli_query($conn, "SELECT * FROM todolist_apps");
 
 ?>
+
+//end php code -->
+
 <!DOCTYPE html>
 <html lang="en">
 
