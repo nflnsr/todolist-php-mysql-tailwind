@@ -1,9 +1,10 @@
+<!-- start php code
 <?php
 
-$host = 'sql311.epizy.com';
-$usr = 'epiz_33133900';
-$pwd = 'nauwasyours';
-$db = 'epiz_33133900_todolist';
+$host = '';
+$usr = '';
+$pwd = '';
+$db = '';
 
 $conn = mysqli_connect($host, $usr, $pwd, $db);
 
@@ -15,7 +16,9 @@ if (isset($_POST['Submit'])) {
 
 $datas = mysqli_query($conn, "SELECT * FROM todolist_apps WHERE id=$_GET[id]");
 $data = mysqli_fetch_array($datas)
+
 ?>
+end php code  -->
 
 <!DOCTYPE html>
 <html lang="en">
