@@ -1,5 +1,3 @@
-<!-- //start php code
-
 <?php
 
 $host = '';
@@ -12,8 +10,6 @@ $conn = mysqli_connect($host, $usr, $pwd, $db);
 $data = mysqli_query($conn, "SELECT * FROM todolist_apps");
 
 ?>
-
-//end php code -->
 
 <!DOCTYPE html>
 <html lang="en">
