@@ -14,7 +14,7 @@ field name : id, task, priority, date_created
 
 surely u can change the name according to you, but you should change the name in the code as well.
 
-note that i using tailwind cdn for development. if you have done with your code, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation
+note that i using tailwind cdn for development. if you have done with your code, install it as PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation
 
 
 
