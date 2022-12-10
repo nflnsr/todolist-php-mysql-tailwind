@@ -1,7 +1,7 @@
 # todolist-php-mysql-tailwind
 -read it pls-
 
-you can see this project on https://simplecrud.epizy.com
+you can see this project on nothing-to-list.epizy.com
 
 for learning purpose, you can create database on your local storage (localhost). but if you wanna deploy it as a project, make sure that you have created your own database on server, not local on your pc.
 i recommended infinityfree.net for php language like this one (hosting and config database).
